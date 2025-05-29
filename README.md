@@ -1,4 +1,4 @@
-Jay@root:~$ whoami
+Jay@root:~$ whoami <br>
 Jay — A practical learner using projects to master Financial Technology  
 Focused on applying skills in real-world challenges and building solutions.
 
