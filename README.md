@@ -1,4 +1,4 @@
-Jay@root:~$ whoami <br>
+Jay@root:~$ whoami
 Jay — A practical learner using projects to master Financial Technology  
 Focused on applying skills in real-world challenges and building solutions.
 
@@ -33,16 +33,15 @@ Jay@root:~$ cat motto.txt
 
 Jay@root:~$ ./contact.sh
 Connect with me:
-LinkedIn: https://linkedin.com/in/yourhandle
-GitHub: https://github.com/yourhandle
-Email: your.email@example.com
-WhatsApp: +123-456-7890
+LinkedIn: https://linkedin.comw/in/jaeirm
+GitHub: https://github.com/jaeirm
+Email: jaeirm.ltd@gmail.com
+WhatsApp: +91 63855 86985
 
 Jay@root:~$ help
 Available commands:
   whoami              - About me
   ls projects/        - List projects
-  tree projects/      - Show project structure
   cat [project]/README.md - Show project details
   cat motto.txt       - Work philosophy
   ./contact.sh        - Contact info and socials
